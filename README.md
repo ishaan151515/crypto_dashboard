@@ -20,11 +20,11 @@ This repository contains a Crypto Tracker Dashboard built with Next.js and docum
    
    a. Clone the repository 
    ```
-   git clone https://github.com/your-github-username/crypto-price-tracker.git
+   git clone https://github.com/ishaan151515/crypto_dashboard.git
    ```
    b. Install Dependencies
    ```
-   cd crypto-price-tracker/web-app
+   cd crypto_dashboard/web-app
    npm install
    ```
    c. Run the Development Server
