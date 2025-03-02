@@ -11,11 +11,29 @@ This repository contains a Crypto Tracker Dashboard built with Next.js and docum
 
 ### Web App
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-github-username/crypto-price-tracker.git
-   ```
-2. Live deployment 
+1. Live deployment 
    ```
    https://crypto-dashboard-sigma-two.vercel.app/
    ```
+
+2. Locally on your machine
+   
+   a. Clone the repository 
+   ```
+   git clone https://github.com/your-github-username/crypto-price-tracker.git
+   ```
+   b. Install Dependencies
+   ```
+   cd crypto-price-tracker/web-app
+   npm install
+   ```
+   c. Run the Development Server
+   ```
+   npm run dev
+   ```
+   d. Then deploy in browser to view the application
+   ```
+   http://localhost:3000
+   ```
+   
+
