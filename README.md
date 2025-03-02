@@ -15,6 +15,7 @@ This repository contains a Crypto Tracker Dashboard built with Next.js and docum
    ```
    git clone https://github.com/your-github-username/crypto-price-tracker.git
    ```
+2. Live deployment 
    ```
    https://crypto-dashboard-sigma-two.vercel.app/
    ```
