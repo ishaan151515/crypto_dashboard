@@ -20,7 +20,7 @@ git clone https://github.com/ishaan151515/crypto_dashboard.git
 
 ### 2. Install Dependencies
 ```
-cd crypto-price-tracker/web-app
+cd crypto_dashboard/web-app
 npm install
 ```
 
